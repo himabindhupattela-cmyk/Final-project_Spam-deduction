@@ -1,0 +1,6 @@
+spam-detection-ml/
+│
+├── spam_detection.ipynb
+├── spam.csv
+├── README.md
+└── requirements.txt
